@@ -1,2 +1,7 @@
 Flask
 selenium
+gunicorn
+requests
+gevent
+gunicorn
+urllib3
